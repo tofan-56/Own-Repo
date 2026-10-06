@@ -1,4 +1,4 @@
 # MY Own-Repo
 This is my first Git Repository.
 <br>
-Author-Tofan
+Author-Tofan Kumar Sahu
